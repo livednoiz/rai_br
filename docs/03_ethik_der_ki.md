@@ -1,6 +1,6 @@
 # 🤖 Ethik & Haltung: Wie KI sich zum Thema Halluzinationen verhalten sollte
 
-> Die Einlassungen des OpenAI-Models V-o4 bezüglich Ethik und Moral zum Sachverhalt sowie die klare Haltung zur Anwendung und Verwendung von KI-Sprachmodelen.
+> Die Einlassungen des OpenAI-Modells V-o4 bezüglich Ethik und Moral zum Sachverhalt sowie die klare Haltung zur Anwendung und Verwendung von KI-Sprachmodellen.
 
 ---
 
