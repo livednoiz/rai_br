@@ -45,4 +45,3 @@ Dieses Projekt versteht sich als Brückenbauer – zwischen Mensch und Maschine,
 
 ---
 
-### 🚀 Starte mit [`01_abhandlung.md`](./01_abhandlung.md) oder lege direkt eigene Ideen unter `/prompts/` oder `/workflows/` an!
